@@ -1,1 +1,8 @@
-[{"name":"Enscan","imageURL":"https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/image/main.png","zipURL":"https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/Enscan.zip","describe":"Enscan 的图形化\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.3.2\n1. 修复了 查询导出 功能取消无效的bug\n2. 增宽了 查询 按钮的面积\n3. 增加了关于界面，用于显示当前插件版本\n\nv1.3.1更新修复了高级选项中投资比例等勾选查询无效的bug\n\nv1.3目前已经基本上添加了所有的enscan上已有的功能。\n\nv1.2目前已兼容win，并且优化了诸多细节。\n\nv1.1目前已更新了支持选择查询来源的功能，并且选择多个来源时，会全部查询，并去除重复项。"}]
+[
+    {
+        "name": "Enscan",
+        "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/image/main.png",
+        "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/Enscan.zip",
+        "describe": "Enscan 的图形化\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.3.2\n1. 修复了 查询导出 功能取消无效的bug\n2. 增宽了 查询 按钮的面积\n3. 增加了关于界面，用于显示当前插件版本\n\nv1.3.1更新修复了高级选项中投资比例等勾选查询无效的bug\n\nv1.3目前已经基本上添加了所有的enscan上已有的功能。\n\nv1.2目前已兼容win，并且优化了诸多细节。\n\nv1.1目前已更新了支持选择查询来源的功能，并且选择多个来源时，会全部查询，并去除重复项。"
+    }
+]
