@@ -9,6 +9,6 @@
         "name": "Fofa",
         "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Fofa/image/main.png",
         "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Fofa/Fofa.zip",
-        "describe": "Fofa 的图形化，支持翻页导出 csv 与 txt\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.1 修复了查询可能会卡死的小bug\nv1.0 初次见面，请多指教\n"
+        "describe": "Fofa 的图形化，支持翻页导出 csv 与 txt\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.1 修复了查询可能会卡死的小bug\n2. 把可选字段中“资产的URL链接”提升至上面\n\nv1.0 初次见面，请多指教\n"
     }
 ]
