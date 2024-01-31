@@ -18,7 +18,7 @@
         "describe": "EDcode 的图形化，支持多种多样的编码解码加密解密功能\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.1\n更新内容：\n1. 更新了配置文件结构，可能会对所有的联网插件产生一定的影响，如果出现错误，请重新下载插件\n\nv1.0 初次见面，请多指教\n"
     },
     {
-        "name": "Http&Socks",
+        "name": "HttpAndSocks",
         "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/HttpAndSocks/image/main.png",
         "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/HttpAndSocks/Main.jar",
         "describe": "Http&Socks 的图形化，支持各种代理转接为本地socks5/http，远程连接支持：socks5/http/ss。\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.1\n更新内容：\n1. 修改了title，修复了ToolsKing命名异常的bug\n\nv1.0 初次见面，请多指教\n"
