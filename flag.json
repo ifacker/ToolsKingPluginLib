@@ -2,19 +2,25 @@
     {
         "name": "Enscan",
         "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/image/main.png",
-        "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/Enscan.zip",
-        "describe": "Enscan 的图形化\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.3.2\n1. 修复了 查询导出 功能取消无效的bug\n2. 增宽了 查询 按钮的面积\n3. 增加了关于界面，用于显示当前插件版本\n\nv1.3.1更新修复了高级选项中投资比例等勾选查询无效的bug\n\nv1.3目前已经基本上添加了所有的enscan上已有的功能。\n\nv1.2目前已兼容win，并且优化了诸多细节。\n\nv1.1目前已更新了支持选择查询来源的功能，并且选择多个来源时，会全部查询，并去除重复项。"
+        "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Enscan/Main.jar",
+        "describe": "Enscan 的图形化\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.3.3\n更新内容：\n1. 更新了配置文件结构，可能会对所有的联网插件产生一定的影响，如果出现错误，请重新下载插件\n\nv1.3.2\n1. 修复了 查询导出 功能取消无效的bug\n2. 增宽了 查询 按钮的面积\n3. 增加了关于界面，用于显示当前插件版本\n\nv1.3.1更新修复了高级选项中投资比例等勾选查询无效的bug\n\nv1.3目前已经基本上添加了所有的enscan上已有的功能。\n\nv1.2目前已兼容win，并且优化了诸多细节。\n\nv1.1目前已更新了支持选择查询来源的功能，并且选择多个来源时，会全部查询，并去除重复项。"
     },
     {
         "name": "Fofa",
         "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Fofa/image/main.png",
         "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/Fofa/Main.jar",
-        "describe": "Fofa 的图形化，支持翻页导出 csv 与 txt\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.2\n更新内容：\n1. 更新了配置文件结构，可能会对所有的联网插件产生一定的影响，如果出现错误，请重新下载插件\nv1.0.1\n1. 修复了查询可能会卡死的小bug\n2. 把可选字段中“资产的URL链接”提升至上面\n\nv1.0 初次见面，请多指教\n"
+        "describe": "Fofa 的图形化，支持翻页导出 csv 与 txt\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.2\n更新内容：\n1. 更新了配置文件结构，可能会对所有的联网插件产生一定的影响，如果出现错误，请重新下载插件\n\nv1.0.1\n1. 修复了查询可能会卡死的小bug\n2. 把可选字段中“资产的URL链接”提升至上面\n\nv1.0 初次见面，请多指教\n"
     },
     {
         "name": "EDcode",
         "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/EDcode/image/main.png",
-        "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/EDcode/EDcode.zip",
-        "describe": "EDcode 的图形化，支持多种多样的编码解码加密解密功能\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0 初次见面，请多指教\n"
+        "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/EDcode/Main.jar",
+        "describe": "EDcode 的图形化，支持多种多样的编码解码加密解密功能\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.1\n更新内容：\n1. 更新了配置文件结构，可能会对所有的联网插件产生一定的影响，如果出现错误，请重新下载插件\n\nv1.0 初次见面，请多指教\n"
+    },
+    {
+        "name": "Http&Socks",
+        "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/HttpAndSocks/image/main.png",
+        "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/HttpAndSocks/Main.jar",
+        "describe": "Http&Socks 的图形化，支持各种代理转接为本地socks5/http，远程连接支持：socks5/http/ss。\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0 初次见面，请多指教\n"
     }
 ]
