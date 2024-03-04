@@ -21,6 +21,6 @@
         "name": "HttpAndSocks",
         "imageURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/HttpAndSocks/image/main.png",
         "zipURL": "https://raw.githubusercontent.com/ifacker/ToolsKingPluginLib/master/HttpAndSocks/Main.jar",
-        "describe": "Http&Socks 的图形化，支持各种代理转接为本地socks5/http，远程连接支持：socks5/http/ss。\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.0.1\n更新内容：\n1. 修改了title，修复了ToolsKing命名异常的bug\n\nv1.0 初次见面，请多指教\n"
+        "describe": "Http&Socks 的图形化，支持各种代理转接为本地socks5/http，远程连接支持：socks5/http/ss。\n如果有bug，请卸载插件后重新安装新版本的插件\n\nv1.1\n更新内容：\n1. 新增了服务启动失败后，按钮自动恢复的功能\n\nv1.0.1\n更新内容：\n1. 修改了title，修复了ToolsKing命名异常的bug\n\nv1.0 初次见面，请多指教\n"
     }
 ]
